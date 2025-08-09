@@ -1,0 +1,26 @@
+{
+    "name": "is_pelindrome",
+    "version": "1.0.7",
+    "description": "Check whether a string or number is a palindrome.",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "keywords": [
+      "palindrome",
+      "isPalindrome",
+      "check-palindrome",
+      "reverse-string",
+      "palindrome",
+      "string",
+      "number",
+      "utility",
+      "boolean",
+      "check",
+      "is"
+    ],
+    "author": "Sourav Mahanty",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/sourav7384/is-palindrome"
+    }
+  }
