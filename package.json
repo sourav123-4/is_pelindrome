@@ -1,6 +1,6 @@
 {
     "name": "is_pelindrome",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Check whether a string or number is a palindrome.",
     "main": "index.js",
     "types": "index.d.ts",
@@ -21,6 +21,6 @@
     "license": "MIT",
     "repository": {
       "type": "git",
-      "url": "https://github.com/sourav7384/is-palindrome"
+      "url": "https://github.com/souravrasiknagar/is_pelindrome"
     }
   }
